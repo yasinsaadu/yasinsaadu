@@ -1,6 +1,6 @@
 <!-- Header / Banner -->
 <h1 align="center">👋 Hey there, I'm Yasin Sa'adu</h1>
-<h3 align="center">Student • CEO • Game Developer • Software Engineer</h3>
+<h3 align="center">Student • Game Developer • Software Engineer</h3>
 
 <p align="center">
 🎮 Passionate about <b>software development</b>, <b>full-stack web development</b>, and <b>game development</b>.  
